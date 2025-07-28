@@ -8,3 +8,9 @@
 ```python
 print("hello world")
 ```
+
+
+- [ ] da mancare la pisic
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
